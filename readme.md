@@ -27,3 +27,4 @@
 ├── webpack.build.conf.js            # Конфигурация Webpack.js для production сборки
 └── webpack.dev.conf.js              # Конфигурация Webpack.js для dev сборки
 ```
+Webpack - сборка - pug /scss
